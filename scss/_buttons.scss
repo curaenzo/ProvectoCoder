@@ -1,0 +1,14 @@
+.botonExtend {
+    @extend %boton-default;
+    background-color: $color-nav;
+    color: rgb(6, 5, 5);
+   
+  }
+
+.botonMixin{
+    @include botones();
+    background-color: rgb(172, 19, 19);
+    color: rgb(6, 5, 5);
+}
+  
+  
