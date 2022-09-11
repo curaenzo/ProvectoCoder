@@ -49,7 +49,7 @@ a {
 
 .main {
   grid-area: main;
-  background-image: url("../img/Fondogeneral.jpg");
+  background-image: url("../img/FondoGeneral.jpg");
   background-attachment: fixed;
   background-size: cover;
   height: 1500px;
